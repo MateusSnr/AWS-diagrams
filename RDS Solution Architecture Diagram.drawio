@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-02T14:04:37.189Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TQrB2Pq-ycgWOCnD5Ile" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-02T14:05:54.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ZdAnGnPOJ7rPVtt7_MuF" version="20.0.4" type="github">
   <diagram id="jTe92dpSTe3RsPwoJPdz" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="cNlb_3dFCEE9M3wFZ9G9-7" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Read/Write&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="550" y="650" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cNlb_3dFCEE9M3wFZ9G9-8" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=12;image=https://intellipaat.com/blog/wp-content/uploads/2019/05/RDS-feature-1-800x242.png;" vertex="1" parent="1">
+          <mxGeometry x="640" y="660" width="188.79" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
